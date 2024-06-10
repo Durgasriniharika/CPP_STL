@@ -21,7 +21,7 @@ void explainVector()
     vector<int>v1{5,24};
     vector<int>v2(v1);//copying
 
-    VECTOR ITERATOR;
+    //VECTOR ITERATOR;
 
     vector<int>::iterator it=v.begin();
     it++;
